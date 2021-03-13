@@ -8,8 +8,5 @@ The notebooks contained in this repo contained a handful of variations of a simp
 
 ## Acknowledgments
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+This project was first completed while enrolled at Jedha Bootcamp while earning a Data Science and Fullstack Development 
+professional certificate.
